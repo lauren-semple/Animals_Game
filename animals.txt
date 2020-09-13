@@ -1,0 +1,62 @@
+1
+Does it have hooves?
+2
+Does it have a beak?
+4
+Does it live in a shell?
+8
+Does it have a pouch?
+16
+Does it have fur on its tail?
+32
+Does it have tusks?
+64
+Is it a rat?
+65
+Does it have a trunk?
+130
+Is it a walrus?
+131
+Is it an elephant?
+33
+Is it larger than a microwave?
+66
+Is it a cat?
+67
+Does it have opposable thumbs?
+134
+Is it really slow?
+268
+Is it a tiger?
+269
+Is it a sloth?
+135
+Is it a gorilla?
+17
+Is it a kangaroo?
+9
+Does it have eyes?
+18
+Is it a clam?
+19
+Is it a snail?
+5
+Does it live in the ocean?
+10
+Is it a duck?
+11
+Is it a giant squid?
+3
+Do people ride it?
+6
+Does it have antlers?
+12
+Does it live in the mountains?
+24
+Is it a pig?
+25
+Is it a mountain goat?
+13
+Is it a moose?
+7
+Is it a horse?
