@@ -1,2 +1,2 @@
 # Animals_Game
-The classic animals guessing game.
+The classic animals guessing game! The program asks yes or no questions to the player and tries to guess the animal the player is thinking of. If the program does not guess the animal, the player helps the program learn the new animal by providing a yes or no question which describes the new animal. Check out animals.txt for an example of the way the animals and question are stored in the file and look at main.cpp to see the full program.
